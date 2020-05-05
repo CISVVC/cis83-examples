@@ -1,0 +1,4 @@
+id,lastname,firstname,type
+1,Flintstone,Fred,production
+2,Rubble,Barney,production
+3,Slate,Barney,salary

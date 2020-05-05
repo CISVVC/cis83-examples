@@ -1,12 +1,13 @@
-from character import Character
+from characters import Monster,Hero,Gorgon
+
 from random import randint
 
 def roll(sides):
    return randint(1,sides)
 
 if __name__ == "__main__":
-   monster = Character("Gorgon","Medussa","stone gaze",100,100)
-   hero = Character("Human","Perseus","winged sandals",100,100)
+   monster = Gorgon("Medussa","stone gaze",100,100)
+   hero = Hero("Perseus","winged sandals",100,100)
    print(str(monster) + " vs. " + str(hero))
 #  roll for the hero
    

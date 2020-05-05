@@ -1,8 +1,9 @@
-letters = ["one","two","three"]
-for word in letters:
-   print(word)
 
-
-for number in range(1,20,2):
+for number in range(10)
    print(number)
 
+
+basket = ['orange','apples','grapes']
+
+for fruit in basket:
+   print(fruit)

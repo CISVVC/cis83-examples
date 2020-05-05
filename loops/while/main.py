@@ -1,18 +1,27 @@
 #!/usr/bin/env python3
-import random
 
+countdown = 10
+while countdown > 0:
+   print(countdown)
+   countdown = countdown - 1
 
-# demonstrate the while loop
-#            0 1 2 3 4 5 
+countdown = 10
+while True:
+   if countdown >= 0:
+      print(countdown)
+   else:
+      break
+   countdown = countdown - 1
 
-diecounts = [0,0,0,0,0,0]
+countdown = 10
+while countdown > 0:
+   if countdown != 4:
+      print(countdown)
+   else:
+      countdown = countdown - 1
+      continue
 
-count = 0
-while count < 100000:
-   die1 = random.randint(1,6)
-   die2 = random.randint(1,6)
+   countdown = countdown - 1
 
-   diecounts[die1-1] += 1
-   count += 1
+print("Done")
 
-print(diecounts)
