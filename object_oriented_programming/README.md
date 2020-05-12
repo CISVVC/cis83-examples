@@ -31,17 +31,17 @@
 [Reading](https://eng.libretexts.org/Bookshelves/Computer_Science/Book%3A_Python_for_Everybody_(Severance)/14%3A_Object-Oriented_Programming/14.10%3A_Inheritance)
 
 ## Object-Oriented Programming(Glossary)
-#attribute
-#class
-#child class
-#constructor
-#destructor
-#inheritance
-#method
-#object
-#parent class
-#mutator
-#accessor
+* attribute
+* class
+* child class
+* constructor
+* destructor
+* inheritance
+* method
+* object
+* parent class
+* mutator
+* accessor
 
 ## Object-Oriented Programming (Summary)
 [Reading](https://eng.libretexts.org/Bookshelves/Computer_Science/Book%3A_Python_for_Everybody_(Severance)/14%3A_Object-Oriented_Programming/14.0S%3A_14.S%3A_Object-Oriented_Programming_(Summary))
