@@ -5,6 +5,7 @@
 
 ## Getting Started
 [Reading](https://eng.libretexts.org/Bookshelves/Computer_Science/Book%3A_Python_for_Everybody_\(Severance\)/14%3A_Object-Oriented_Programming/14.02%3A_Getting_Started) 
+
 [Point Class](./point)
 
 ## Using Objects
