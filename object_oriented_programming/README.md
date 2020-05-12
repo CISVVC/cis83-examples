@@ -3,8 +3,9 @@
 ## Managing Larger Programs
 [Reading](https://eng.libretexts.org/Bookshelves/Computer_Science/Book%3A_Python_for_Everybody_\(Severance\)/14%3A_Object-Oriented_Programming/14.01%3A_Managing_Larger_Programs)
 
-## Getting Started=
+## Getting Started
 [Reading](https://eng.libretexts.org/Bookshelves/Computer_Science/Book%3A_Python_for_Everybody_\(Severance\)/14%3A_Object-Oriented_Programming/14.02%3A_Getting_Started) 
+[Point Class](./point)
 
 ## Using Objects
 [Reading](https://eng.libretexts.org/Bookshelves/Computer_Science/Book%3A_Python_for_Everybody_(Severance)/14%3A_Object-Oriented_Programming/14.03%3A_Using_Objects)
