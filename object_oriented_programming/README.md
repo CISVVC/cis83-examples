@@ -11,6 +11,8 @@
 ## Using Objects
 [Reading](https://eng.libretexts.org/Bookshelves/Computer_Science/Book%3A_Python_for_Everybody_(Severance)/14%3A_Object-Oriented_Programming/14.03%3A_Using_Objects)
 
+[Line Class](./line)
+
 ## Starting with Programs
 [Reading](https://eng.libretexts.org/Bookshelves/Computer_Science/Book%3A_Python_for_Everybody_(Severance)/14%3A_Object-Oriented_Programming/14.04%3A_Starting_with_Programs)
 
