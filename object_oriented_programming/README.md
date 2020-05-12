@@ -1,13 +1,13 @@
 # Object Oriented Programming
 
-# Managing Larger Programs
+## Managing Larger Programs
 [Reading](https://eng.libretexts.org/Bookshelves/Computer_Science/Book%3A_Python_for_Everybody_\(Severance\)/14%3A_Object-Oriented_Programming/14.01%3A_Managing_Larger_Programs)
 
-=Getting Started=
-[https://eng.libretexts.org/Bookshelves/Computer_Science/Book%3A_Python_for_Everybody_(Severance)/14%3A_Object-Oriented_Programming/14.02%3A_Getting_Started Reading]
+## Getting Started=
+[Reading] (https://eng.libretexts.org/Bookshelves/Computer_Science/Book%3A_Python_for_Everybody_\(Severance\)/14%3A_Object-Oriented_Programming/14.02%3A_Getting_Started) 
 
-=Using Objects=
-[https://eng.libretexts.org/Bookshelves/Computer_Science/Book%3A_Python_for_Everybody_(Severance)/14%3A_Object-Oriented_Programming/14.03%3A_Using_Objects Reading]
+## Using Objects
+[Reading](https://eng.libretexts.org/Bookshelves/Computer_Science/Book%3A_Python_for_Everybody_(Severance)/14%3A_Object-Oriented_Programming/14.03%3A_Using_Objects Reading)
 
 =Starting with Programs=
 [https://eng.libretexts.org/Bookshelves/Computer_Science/Book%3A_Python_for_Everybody_(Severance)/14%3A_Object-Oriented_Programming/14.04%3A_Starting_with_Programs Reading]
