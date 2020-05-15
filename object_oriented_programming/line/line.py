@@ -5,8 +5,11 @@ from point import Point
 
 class Line:
 
-    def __init__(self,p1,p2):
+    # constructor for the Line
+    # takes 2 parameters p1 and p2 both of
+    # them are points
 
+    def __init__(self,p1,p2):
         self.p1 = p1
         self.p2 = p2
 
@@ -19,5 +22,6 @@ class Line:
 if __name__ == "__main__":
     
     l1 = Line(Point(1,1),Point(2,2))
+    print(l1.length())
 
-    print(f'{l1}')
+    #print(f'{l1}')

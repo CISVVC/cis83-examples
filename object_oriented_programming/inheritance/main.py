@@ -1,17 +1,15 @@
-int main()
-{
-   vector<Employee*> staff;
-   staff.push_back(new HourlyEmployee("Morgan, Harry", 30));
-   staff.push_back(new SalariedEmployee("Lin, Sally", 52000)); 
-   staff.push_back(new Manager("Smith, Mary", 104000, 50));
-      
-   for (int i = 0; i < staff.size(); i++)
-   {
-      cout << "Hours worked by " << staff[i]->get_name() << ": ";
-      int hours;
-      cin >> hours;
-      cout << "Salary: " << staff[i]->weekly_pay(hours) << endl;
-   }
+#!/usr/bin/env python3
 
-   return 0;
-}
+from hourly import Hourly
+from salaried import Salaried
+from manager import Manager
+
+def main():
+   staff = []
+   staff += [Hourly("Morgan, Harry", 30)]
+   staff += [Salaried("Lin, Salley", 52000)]
+   staff += [Manager("Smith, Mary", 104000,50)]
+      
+   for e in staff:
+      hours = int(input(f'Hours worked by " {e.get_name()}: '))
+      print(f'Salary: e.weekly_pay(hours) << endl;
