@@ -16,14 +16,15 @@ class Line:
     def length(self):
         return self.p1.distance(self.p2)
     
-    def plot(self,canvas,x,y):
-        canvas[y][x] = '.'
+    def plot(self,canvas,x,y,char='.'):
+        canvas[y][x] = char
 
     def printCanvas(self,c):
-        print('0123456789'*(len(c[0])//10))
+#        print('0123456789'*(len(c[0])//10))
         for idx,l in enumerate(c):
-            print(str((len(c)-idx)%10)+"".join(l))
-        print('0123456789'*(len(c[0])//10))
+#            print(str((len(c)-idx)%10)+"".join(l))
+            print("".join(l))
+#        print('0123456789'*(len(c[0])//10))
 
     def plotLine(self,canvas):
         x0 = self.p1.x
