@@ -7,7 +7,7 @@ import point
 def getCanvas(c,rows,cols):
     return [[c]*cols for i in range(rows)]
 
-class Rect():
+class Rect:
     def __init__(self,ul,lr):
         p = point.Point
         self.rect = [ 
@@ -25,7 +25,8 @@ class Rect():
 def main():
     p = point.Point
     canvas = getCanvas(' ',25,90)
-    r = Rect(p(1,6),p(6,1))
+#    r = Rect(p(1,6),p(6,1))
+    r = Rect(p(1,10),p(10,1))
     r.draw(canvas)
 
 

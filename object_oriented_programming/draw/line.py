@@ -4,7 +4,6 @@ from point import Point
 
 
 class Line:
-
     # constructor for the Line
     # takes 2 parameters p1 and p2 both of
     # them are points
